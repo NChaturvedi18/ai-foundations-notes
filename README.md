@@ -1,1 +1,1 @@
-# ai-foundations-notes
+# 📘 Personal AI Learning Notes #
